@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+section
+{
+    display: flex;
+    align-items: center;
+    background:teal;
+    width: 25rem;
+    border-radius: 10px;
+    margin-left:3rem;
+}
+.bio-name{
+    margin-top:-50px;
+}
+.bio-name p
+{
+    padding: 15px;
+    color:#fff;
+}
+.input-fields input
+{
+    margin: 2px;
+    margin-top:5px;
+    height:1.5rem;
+    width:11rem;
+    border-radius:5px;
+    outline: none;
+    border:1px solid white;
+}
