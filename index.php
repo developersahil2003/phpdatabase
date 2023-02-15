@@ -59,6 +59,7 @@ if($con){
                 <input type="text" name="password"><br>
                 <br>
                 <input type="submit" value="Regisrter">
+                <input type="text">
                 </div>
                 
             </form>
